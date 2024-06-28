@@ -1,6 +1,6 @@
-# Handwritten Digit Recognition: A Multi-Layer Perceptron Approach
+## Handwritten Digit Recognition: A Multi-Layer Perceptron Approach
 
-## Running the Code on Google Colab
+### Running the Code on Google Colab
 
 **Click on the following link to open and run the code in Google Colab:**
 
